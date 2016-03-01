@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+node_modules
+### OSX template
+.DS_Store
+
+
+# assets
+assets
+
+# IDEA
+.idea
+
+bower_components
